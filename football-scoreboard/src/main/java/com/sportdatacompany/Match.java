@@ -1,4 +1,4 @@
-package com.sportdatacompany;
+package com.sportsdatacompany;
 
 import java.time.LocalDateTime;
 
