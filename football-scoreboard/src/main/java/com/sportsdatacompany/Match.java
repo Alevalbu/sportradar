@@ -48,6 +48,6 @@ public class Match {
 
     @Override
     public String toString() {
-        return homeTeam + " " + homeScore + " - " + awayTeam + " " + awayScore; 
+        return homeTeam + " " + homeScore + " - " + awayTeam + " " + awayScore;
     }
 }
